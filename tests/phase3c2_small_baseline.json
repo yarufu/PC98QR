@@ -1,0 +1,55 @@
+{
+  "head": "1525d75279cd3813e5fca41bd821113ae99d5329",
+  "phase3c1_start": "21c259b29c03c8d6028d728e8ffb2f47bebb1283",
+  "note": "Captured before Phase 3C-2 edits; both revisions produce identical frames. Matrix is row-major bytes 0/1; framebuffer is PGM including header.",
+  "cases": [
+    {
+      "length": 1,
+      "hex": "00",
+      "size": 21,
+      "mask": 4,
+      "matrix_sha256": "64087028591e47a9700da2f8c2dbc8bbd40d164e8c386049fe568fa1b326c5ab",
+      "framebuffer_sha256": "3ba5e0ef3f4df7e2f82723c3887eb931154a0bbc4bc0c91a3ff3e73067b5aeee"
+    },
+    {
+      "length": 11,
+      "hex": "00011a7f80ffc328004142",
+      "size": 21,
+      "mask": 0,
+      "matrix_sha256": "e6f1690fbb4cdaf79188e0d3204f4afce0efc53824bb7684d7230121f3d8ecf6",
+      "framebuffer_sha256": "efb1fc53117aa6b03fe4e2548981b2ea8805f0b9499d50f2ee2b36071fbb11e9"
+    },
+    {
+      "length": 12,
+      "hex": "00011a7f80ffc32800414210",
+      "size": 25,
+      "mask": 0,
+      "matrix_sha256": "22def99476484b475e220a5623e7e490c43389c691b5f96972187300cd7cc731",
+      "framebuffer_sha256": "df94a9179114e3f2f48f5f5152ea810ed977e672cdddfc751eaa3edbe9f89791"
+    },
+    {
+      "length": 20,
+      "hex": "00011a7f80ffc3280041421020304050607080ff",
+      "size": 25,
+      "mask": 0,
+      "matrix_sha256": "80cf43072a260ff68b29dcabd6c7034cef3db27564bd894b88df87358f08c562",
+      "framebuffer_sha256": "3ba07d35122fa98f88b2c7099ecaeadf9cb4ed20e198b44aae2382a4e30f26c7"
+    },
+    {
+      "length": 21,
+      "hex": "00011a7f80ffc3280041421020304050607080ff00",
+      "size": 25,
+      "mask": 0,
+      "matrix_sha256": "082889e587dc2d5678e5b2b681143402df785440671bdeade1389e05f8d16fa1",
+      "framebuffer_sha256": "0aea27896226b719c5d700a9645be6f733a806cd8a0719dc2989715933a2a258"
+    },
+    {
+      "length": 26,
+      "hex": "00011a7f80ffc3280041421020304050607080ff001a80ff0d0a",
+      "size": 25,
+      "mask": 0,
+      "matrix_sha256": "8be0caab8eec1f3a92756d86e10a93cf11b1c06e569e3ab2eff09d1d17e45e17",
+      "framebuffer_sha256": "e0f565f90ceb9cbd366fccc0416df4e8ef64097e03db83765172302be3a1f19c"
+    }
+  ]
+}

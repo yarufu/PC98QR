@@ -1,0 +1,10 @@
+/.venv/
+/.vscode/
+/.venv-win/
+/build/
+__pycache__/
+*.pyc
+/.agents/
+/.codex/
+/PC98QR-phase1-review.tar.gz
+/PC98QR-phase1-review.zip

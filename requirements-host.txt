@@ -1,0 +1,7 @@
+# Dependencies for host tests, reference generation, and photo decoding.
+# Full host tests require Python 3.11+ (contextlib.chdir).
+# Verified with Python 3.12; Python 3.11 has not been tested.
+qrcode==8.2
+numpy==2.2.6
+opencv-python-headless==4.12.0.88
+zxing-cpp==2.3.0

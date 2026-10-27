@@ -1,0 +1,88 @@
+{
+  "head": "3eaecec1031d976d4403bd94c11105925c703b3f",
+  "payload": "qr_v25_oracle.payload (identical to qr_v40_oracle.payload)",
+  "framebuffer": "P5 header plus 640x400 pixels, as emitted by render_main",
+  "cases": [
+    {
+      "length": 1,
+      "payload_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+      "size": 21,
+      "ecc": "Q",
+      "mask": 4,
+      "matrix_sha256": "64087028591e47a9700da2f8c2dbc8bbd40d164e8c386049fe568fa1b326c5ab",
+      "framebuffer_sha256": "3ba5e0ef3f4df7e2f82723c3887eb931154a0bbc4bc0c91a3ff3e73067b5aeee"
+    },
+    {
+      "length": 11,
+      "payload_sha256": "7757c1c53a2d024ab21c3eed83f8e104ebcbb0920fa0b14b0b738c8bdf27a9ef",
+      "size": 21,
+      "ecc": "Q",
+      "mask": 0,
+      "matrix_sha256": "d0c4d3f27acc89365e08aed39168fd7b53fb0234e6c5cf82a5650886834b892f",
+      "framebuffer_sha256": "56d65b79a625aab9ded0174ae7ac22014e78dca1e65afc993a691ad88b0eefcd"
+    },
+    {
+      "length": 12,
+      "payload_sha256": "7c29524b68080f774e6c73bfad19f57985bd0f20116ec391785e999027ba1d66",
+      "size": 25,
+      "ecc": "Q",
+      "mask": 6,
+      "matrix_sha256": "764ab4c3e5470e80c5763d668ff6ffc130c9cf4a58aef55de0466c83c8b0dbbd",
+      "framebuffer_sha256": "da2a468ddf2340ee3e533137d6acefaf52202c3995a0fdd3c9b2bca617004cff"
+    },
+    {
+      "length": 20,
+      "payload_sha256": "b59dc6c42e3a8810be7119025028d7ba4e5ba4ce459e656f7c4c36a7e7d2ecf5",
+      "size": 25,
+      "ecc": "Q",
+      "mask": 2,
+      "matrix_sha256": "8a81119c741b22126f2cbddd95d2891eaae67f6b0fceafcbc237626885e828a0",
+      "framebuffer_sha256": "9edded4f5548781a016f00ed3c7b4b0bf75b87c1ac625b6b61c0ac3fbd1f5c6d"
+    },
+    {
+      "length": 21,
+      "payload_sha256": "ed943e8a821fcf12b6333b7834f849a939b0b226c577c1751c3e7ed852a968e3",
+      "size": 25,
+      "ecc": "M",
+      "mask": 0,
+      "matrix_sha256": "c297d87871900a75c0e78e0a159ca2b9c7127e66532a8d360a9fb27fa927ecc6",
+      "framebuffer_sha256": "346db1cb35327cc8e7bad48087db2050122f0b8ca4ab63fe1fe4072f19d3bc22"
+    },
+    {
+      "length": 26,
+      "payload_sha256": "8eae3c9eccaf2db5f9f749fea662abd51b1a123a34be38a9698810df6d1e06a1",
+      "size": 25,
+      "ecc": "M",
+      "mask": 2,
+      "matrix_sha256": "11d64ab48d4e561e1fe3bd0ebe39f3d533aa3a61557febf45f3cd49d64696380",
+      "framebuffer_sha256": "1a2e41c6fdcb14167e7cf78e5b0096a78136bcf91278b470c2e3226b402f8657"
+    },
+    {
+      "length": 27,
+      "payload_sha256": "f2019bfaf2d624cd038da807d21aa6317584ae1730fb4b079085a6d429667754",
+      "size": 117,
+      "ecc": "L",
+      "mask": 4,
+      "matrix_sha256": "fb4f1d014b5aede64f157f9c250b2c0b7e59d28329e6ff7b4922c4629ad1b399",
+      "framebuffer_sha256": "879aeb0fc81e64861a7eee5972dc5a01bde5ad9078dac057bb3ac92570b0c21e"
+    },
+    {
+      "length": 1000,
+      "payload_sha256": "a38eb73969e88bd0f40b5cebfdd3f0a19a9f3802b0e35991ef1cf85d390c937b",
+      "size": 117,
+      "ecc": "L",
+      "mask": 0,
+      "matrix_sha256": "26db5cd809123a3ca2e514a155252fcd61c3efd98cc95d77e4f497985aba7d0b",
+      "framebuffer_sha256": "80c98531278c6ec6e5d39a0007661814c8f895c2fc9c4e0209b0aaddade25ba3"
+    },
+    {
+      "length": 1273,
+      "payload_sha256": "79c6d9e911255e2690f115a4f5e8bb6cdd2852c731ad2eecbcecf7dc9c6a19d9",
+      "size": 117,
+      "ecc": "L",
+      "mask": 7,
+      "matrix_sha256": "19199948b43f1a2e5d953534847a5fb2091220003e2010c01d4f0777461d466b",
+      "framebuffer_sha256": "2f15b8e52d3c0b4faa1701b3a6c30ff34b141aeca7dd455d8f8a38598931c286"
+    }
+  ]
+}
